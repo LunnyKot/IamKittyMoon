@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, eu sou o Yochio! 
+
+- 📖 Estudante de Ciência da Computação (Uninove) 
+- ⚡ Atualmente aprendendo desenvolvimento Web
+
 
 <!--
 **iTzMoonStar/iTzMoonStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
