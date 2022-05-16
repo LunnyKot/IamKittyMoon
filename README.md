@@ -1,7 +1,7 @@
 ### Olá, eu sou o Yochio! 
 
 - 📖 Estudante de Ciência da Computação (Uninove) 
-- ⚡ Atualmente aprendendo desenvolvimento Web
+- ⚡ Atualmente aprendendo desenvolvimento Android
 
 
 <!--
